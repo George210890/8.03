@@ -35,11 +35,11 @@
 
 ### Задание 2
 
-1. `Пушь репозитория на GitLab` ![скрин](img/2-1.png)  
-2. `Создайю .gitlab-ci.yml, описав в нём все необходимые этапы` ![скрин](img/2-2.png)
-   * ![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
+1. `Пушь репозитория на GitLab` ![скрин](https://github.com/George210890/8.03/blob/main/Screenshot_6.png)  
+2. `Создайю .gitlab-ci.yml, описав в нём все необходимые этапы` ![скрин](https://github.com/George210890/8.03/blob/main/Screenshot_7.png)
+   * ![image](https://github.com/George210890/8.03/blob/main/Screenshot_8.png)
 
-   *![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
+   *![image](https://github.com/George210890/8.03/blob/main/Screenshot_9.png)
 
-   *![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
+   *![image](https://github.com/George210890/8.03/blob/main/Screenshot_10.png)
 
