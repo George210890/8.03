@@ -24,11 +24,14 @@
 
 ### Задание 1
 
-1. `GitLab развернут локально` ![скрин](img/1-1.png)
-2. `Создаю новый проект и пустой репозиторий в нём.` ![скрин](img/1-2.png)
-3. `Регистрирую gitlab-runner для этого проекта и запусткаю его в режиме Docker` ![скрин](img/1-3.png)
-   * ![скрин](img/1-3.1.png)
-   * ![скрин](img/1-3.2.png)
+1. `GitLab развернут локально`
+2. ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+3. `Создаю новый проект и пустой репозиторий в нём.`
+4. ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+5. `Регистрирую gitlab-runner для этого проекта и запусткаю его в режиме Docker`
+6. ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+   * ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+   * ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
 
 ### Задание 2
 
