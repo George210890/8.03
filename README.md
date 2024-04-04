@@ -25,18 +25,21 @@
 ### Задание 1
 
 1. `GitLab развернут локально`
-2. ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+2. ![image](https://github.com/George210890/8.03/blob/main/Screenshot_1.png)
 3. `Создаю новый проект и пустой репозиторий в нём.`
-4. ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+4. ![image](https://github.com/George210890/8.03/blob/main/Screenshot_2.png)
 5. `Регистрирую gitlab-runner для этого проекта и запусткаю его в режиме Docker`
-6. ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
-   * ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
-   * ![image](https://github.com/George210890/GEOR/blob/main/Screenshot_1.png)
+6. ![image](https://github.com/George210890/8.03/blob/main/Screenshot_3.png)
+   * ![image](https://github.com/George210890/8.03/blob/main/Screenshot_4.png)
+   * ![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
 
 ### Задание 2
 
 1. `Пушь репозитория на GitLab` ![скрин](img/2-1.png)  
 2. `Создайю .gitlab-ci.yml, описав в нём все необходимые этапы` ![скрин](img/2-2.png)
-   * ![скрин](img/2-2.1.png)
-   * ![скрин](img/2-3.png)
-   * ![скрин](img/2-4.png)
+   * ![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
+
+   *![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
+
+   *![image](https://github.com/George210890/8.03/blob/main/Screenshot_5.png)
+
